@@ -3,7 +3,7 @@
 #  Script.sh
 #  
 
-SourceDir=../BioNerDS_2020/test_docs
+SourceDir=../BioNerDS_2020/source_docs
 CONFIG_FILE=../BioNerDS_2020/properties.conf
 TARGET_KEY="out-normal"
 
