@@ -1,9 +1,9 @@
 # BioNerDS
-BioNerDS is a bioinformatics named entity recogniser for databases and software. The input and output will be in text files. Examples of files annotated by BioNerds can be found in []().
+BioNerDS is a rule based named entity recogniser for databases and software. The input and output will be in text files. Examples of files annotated by BioNerds can be found in []().
 
 
 
-The new version of BioNerDS is updated in 2020 by Alexandra Dumitriu . It is a Maven project that run with Java 8 or higher. The installation instructions can be found [here](https://sourceforge.net/projects/bionerds2020/files/).
+The new version of BioNerDS is updated in 2020 by Alexandra Dumitriu. It is a Maven project that run with Java 8 or higher. The installation instructions can be found [here](https://sourceforge.net/projects/bionerds2020/files/).
 
-The original BioNerDS developed in 2016 by Geraint Duck. The code and corpora used can be found [here] (https://sourceforge.net/projects/bionerds/files/).
+The original BioNerDS developed in 2016 by Geraint Duck. The code and corpora used can be found [here](https://sourceforge.net/projects/bionerds/files/).
 
