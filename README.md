@@ -1,5 +1,5 @@
 # BioNerDS
-BioNerDS is a rule based named entity recogniser for databases and software. The input and output will be in text files. Examples of files annotated by BioNerds can be found [here](xx). Lists of Databases and software can be found in CSV format [here](xxx).
+BioNerDS is a dictionary and rule based named entity recogniser for databases and software. The input and output will be in text files. Examples of files annotated by BioNerds can be found [here](xx). Lists of Databases and software can be found in CSV format [here](xxx).
 
 
 
